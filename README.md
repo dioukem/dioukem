@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dioukem
+- 👋 Hi, I’m Sekou Dioubate
 - 👀 I’m interested in AI, RPA
 - 🌱 I’m currently learning image recognization
 - 💞️ I’m looking to collaborate on ...
